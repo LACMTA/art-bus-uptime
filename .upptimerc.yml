@@ -3,10 +3,20 @@ owner: LACMTA # Your GitHub organization or username, where this repository live
 repo: art-bus-uptime # The name of this repository
 
 sites:
-  - name: Metro Art Bus Status website
-    url: https://lacmta.github.io/metro-art-bus-tracker/
-    __dangerous__body_down: "No buses running"
-    __dangerous__body_degraded: "Some buses running"
+  - name: Overall Art Bus status
+    url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
+    __dangerous__body_down: '"summary":{"status":"no trips"}'
+    __dangerous__body_degraded: '"summary":{"status":"some buses running"}'
+  - name: Metro Art Bus No. 1
+    url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
+    __dangerous__body_down: '"4111":{"status":"no trips"}'
+  - name: Metro Art Bus No. 2
+    url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
+    __dangerous__body_down: '"5621":{"status":"no trips"}'
+  - name: Metro Art Bus No. 3
+    url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
+    __dangerous__body_down: '"3944":{"status":"no trips"}'
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
