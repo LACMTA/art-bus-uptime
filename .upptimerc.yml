@@ -5,17 +5,17 @@ repo: art-bus-uptime # The name of this repository
 sites:
   - name: Overall Art Bus status
     url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
-    __dangerous__body_down: '"summary":{"status":"no trips"}'
-    __dangerous__body_degraded: '"summary":{"status":"some buses running"}'
+    __dangerous__body_down: "&quot;summary&quot;:{&quot;status&quot;:&quot;no trips&quot;}"
+    __dangerous__body_degraded: "some buses running"
   - name: Metro Art Bus No. 1
     url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
-    __dangerous__body_down: '"4111":{"status":"no trips"}'
+    __dangerous__body_down: "&quot;4111&quot;:{&quot;status&quot;:&quot;no trips&quot;}"
   - name: Metro Art Bus No. 2
     url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
-    __dangerous__body_down: '"5621":{"status":"no trips"}'
+    __dangerous__body_down: "&quot;5621&quot;:{&quot;status&quot;:&quot;no trips&quot;}"
   - name: Metro Art Bus No. 3
     url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
-    __dangerous__body_down: '"3944":{"status":"no trips"}'
+    __dangerous__body_down: "&quot;3944&quot;:{&quot;status&quot;:&quot;no trips&quot;}"
 
 
 status-website:
