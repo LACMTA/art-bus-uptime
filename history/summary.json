@@ -4,18 +4,20 @@
     "url": "https://lacmta.github.io/metro-art-bus-tracker/status-data/",
     "icon": "https://icons.duckduckgo.com/ip3/lacmta.github.io.ico",
     "slug": "overall-art-bus-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 110,
-    "timeWeek": 91,
-    "timeMonth": 87,
+    "timeDay": 79,
+    "timeWeek": 86,
+    "timeMonth": 86,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-29": 0
+    }
   },
   {
     "name": "Metro Art Bus No. 1",
