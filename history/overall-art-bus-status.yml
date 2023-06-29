@@ -1,7 +1,7 @@
 url: https://lacmta.github.io/metro-art-bus-tracker/status-data/
-status: down
-code: 503
-responseTime: 48
-lastUpdated: 2023-06-29T18:10:08.116Z
+status: up
+code: 200
+responseTime: 37
+lastUpdated: 2023-06-29T18:17:38.768Z
 startTime: Tue Aug 30 2022 23:23:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
