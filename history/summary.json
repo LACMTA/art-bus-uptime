@@ -6,18 +6,16 @@
     "slug": "overall-art-bus-status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 65,
-    "timeWeek": 80,
-    "timeMonth": 84,
+    "timeDay": 63,
+    "timeWeek": 87,
+    "timeMonth": 87,
     "timeYear": 103,
-    "dailyMinutesDown": {
-      "2023-06-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Metro Art Bus No. 1",
@@ -32,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 8,
     "timeDay": 11,
-    "timeWeek": 7,
+    "timeWeek": 8,
     "timeMonth": 8,
     "timeYear": 8,
     "dailyMinutesDown": {}
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 10,
-    "timeDay": 39,
-    "timeWeek": 11,
+    "timeDay": 11,
+    "timeWeek": 12,
     "timeMonth": 12,
     "timeYear": 10,
     "dailyMinutesDown": {}
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8,
-    "timeDay": 11,
-    "timeWeek": 6,
+    "timeDay": 15,
+    "timeWeek": 8,
     "timeMonth": 8,
     "timeYear": 8,
     "dailyMinutesDown": {}
